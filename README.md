@@ -1,0 +1,2 @@
+# Excel---Cryptocurrencies-Volatility-Analysis
+Cryptocurrency are digital currency in which transactions are verified and records maintained by a decentralized system using cryptography, rather than by a centralized authority. Here, my role was to analyze the volatility of the top Cryptos during the month of May-June2024 &amp; find out the most stable &amp; volatile cryptos. The details are as below:-
